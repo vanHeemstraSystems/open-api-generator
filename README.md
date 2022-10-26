@@ -3,6 +3,10 @@ open-api-generator
 
 Based on "Open API Generator" at https://openapi-generator.tech/
 
+Based on "Generate Server Code Using OpenAPI Generator" at https://mydeveloperplanet.com/2022/02/08/generate-server-code-using-openapi-generator/
+
+Based on "Introducing OpenAPI Generator" at https://www.youtube.com/watch?v=t4jaTC7QjMg
+
 ## 100 - Introduction
 
 ## 200 - Requirements
