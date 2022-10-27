@@ -75,6 +75,6 @@ info:
 paths: {}  
 ```
 
-
+![Editor_Petstore_3 0](https://user-images.githubusercontent.com/1499433/198320901-8b450435-84b2-4279-8390-0029169eedad.png)
 
 *More following ...*
