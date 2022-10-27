@@ -7,6 +7,8 @@ Based on "Generate Server Code Using OpenAPI Generator" at https://mydeveloperpl
 
 Based on "Introducing OpenAPI Generator" at https://www.youtube.com/watch?v=t4jaTC7QjMg
 
+Based on "OpenAPI 3.0: How to Design and Document APIs with the Latest OpenAPI Specification 3.0" at https://www.youtube.com/watch?v=6kwmW_p_Tig
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
