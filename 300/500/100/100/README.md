@@ -60,7 +60,7 @@ As long as we are in the creating phase of this API we will keep it ```Private``
 Auto Mock API: Off
 ```
 
-Confirm the firm by clicking the button **Create API**.
+Confirm the form by clicking the button **Create API**.
 
 ## 300 - Edit the New API
 
