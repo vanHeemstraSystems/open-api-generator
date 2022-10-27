@@ -7,4 +7,12 @@ We will use [Swagger Hub](https://swaggerhub.com/) for the creation of the API (
 
 ![Open-API-Specs](https://user-images.githubusercontent.com/1499433/198233350-413e685f-6b8d-4b42-aa64-8672e5a97f34.png)
 
-More to follow ...
+## 100 - Project Setup
+
+## 200 - Docker for Development
+
+## 300 - Docker for Production
+
+## 400 - React Router and NGinx
+
+## 500 - Next Steps
