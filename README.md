@@ -9,6 +9,8 @@ Based on "Introducing OpenAPI Generator" at https://www.youtube.com/watch?v=t4ja
 
 Based on "OpenAPI 3.0: How to Design and Document APIs with the Latest OpenAPI Specification 3.0" at https://www.youtube.com/watch?v=6kwmW_p_Tig
 
+Based on "SwaggerHub: The Single Source of Truth for API Development" at https://swagger.io/tools/swaggerhub/
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
