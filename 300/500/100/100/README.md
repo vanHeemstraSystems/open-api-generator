@@ -54,6 +54,8 @@ Description: A Petstore
 Visibility: Private
 ```
 
+As long as we are in the creating phase of this API we will keep it ```Private``. This can be switched to ```Public``` at anytime.
+
 ```
 Auto Mock API: Off
 ```
