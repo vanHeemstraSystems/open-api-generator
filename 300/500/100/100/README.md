@@ -60,11 +60,20 @@ As long as we are in the creating phase of this API we will keep it ```Private``
 Auto Mock API: Off
 ```
 
+Confirm the firm by clicking the button **Create API**.
 
+## 300 - Edit the New API
 
+With the Petstore API created in previous step, we will now see the following at https://app.swaggerhub.com/apis/SOME_ORGANIZATION/Petstore_3.0/1.0.0
 
-
-
+```
+openapi: 3.0.0
+info:
+  version: 1.0.0
+  title: Petstore
+  description: A Petstore
+paths: {}  
+```
 
 
 
